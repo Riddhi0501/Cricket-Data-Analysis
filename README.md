@@ -30,8 +30,11 @@ With tooltip
 
 ## Features
 **Team Strategy Formulation**: Used data insights from T20 World Cup 2022 player performances for effective team strategies and tactical decisions.
+
 **Scouting and Recruitment**: Leveraged project findings to assist cricket franchises in recruiting new talent based on exceptional T20 World Cup 2022 performances.
+
 **Fan Engagement and Insights**: Improved fan experience through interactive dashboards, offering key statistics and highlights from T20 World Cup 2022 for deeper engagement.
+
 **Player Performance Evaluation**: Applied advanced analytics to assess individual player statistics from the Cricket T20 World Cup 2022, aiding selectors and coaches in informed decision-making for future matches and series.
 
 ## Data Source
